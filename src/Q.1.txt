@@ -1,0 +1,6 @@
+fn main() {
+    let std_record = (87,100,"A");
+    println!("Your Obtained marks are :{}", std_record.0); 
+    println!("Your Total marks are :{}", std_record.1); 
+    println!("Your Grade is :{}", std_record.2); 
+}
