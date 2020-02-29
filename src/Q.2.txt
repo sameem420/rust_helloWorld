@@ -1,7 +1,0 @@
-fn main() {
-    let names = ["Afnan", "Furqan", "Rehan"];
-    let f_name = "Aslam";
-    for element in names.iter() {
-        println!("{} {}", element, f_name);
-    }
-}
