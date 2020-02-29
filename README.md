@@ -2,4 +2,4 @@
 
 Hello World program in Rust
 
-#Use cargo command to run the program
+NOTE : Use cargo run command to execute the program
